@@ -2,10 +2,10 @@
 
 A simple python script for converting `.heic` files to `.png`.
 
-# Setup
+## Setup
 
 To install the required packages, run:
-``` terminal
+``` console
 pip install -r requirements.txt
 ```
 
