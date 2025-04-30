@@ -1,6 +1,6 @@
 # heic2png
 
-A simple python script for converting a `.heic` file to `.png`.
+A simple python script for converting `.heic` files to `.png`.
 
 # Setup
 
